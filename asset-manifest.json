@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/architecture/static/css/main.b2d480bd.css",
+    "main.css": "/architecture/static/css/main.3edbe4b6.css",
     "main.js": "/architecture/static/js/main.59ed436d.js",
     "static/media/katoFrontView.png": "/architecture/static/media/katoFrontView.405a982e3a74b6fbc126.png",
     "static/media/mergoHall.png": "/architecture/static/media/mergoHall.56743cd1de4ca7ceb388.png",
@@ -42,11 +42,11 @@
     "static/media/Niko.png": "/architecture/static/media/Niko.a4c7c5623ef1e7615349.png",
     "static/media/Nolan.png": "/architecture/static/media/Nolan.c5162286cc83357c286e.png",
     "index.html": "/architecture/index.html",
-    "main.b2d480bd.css.map": "/architecture/static/css/main.b2d480bd.css.map",
+    "main.3edbe4b6.css.map": "/architecture/static/css/main.3edbe4b6.css.map",
     "main.59ed436d.js.map": "/architecture/static/js/main.59ed436d.js.map"
   },
   "entrypoints": [
-    "static/css/main.b2d480bd.css",
+    "static/css/main.3edbe4b6.css",
     "static/js/main.59ed436d.js"
   ]
 }

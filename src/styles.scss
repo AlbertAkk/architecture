@@ -1731,6 +1731,16 @@ $beige: #ece7e4;
       }
     }
 
+    .allProjectsWrapper {
+      .allProjects {
+        .allProjectsElement {
+          .allProjectsBgWrapper {
+            margin: 0 !important;
+          }
+        }
+      }
+    }
+
     .featProjectsWrapper {
       .featProjBlock {
         padding-bottom: 60px;
@@ -1857,8 +1867,28 @@ $beige: #ece7e4;
           padding: 20px 0;
           text-align: center;
           align-items: center;
+          flex-direction: column !important;
           .projectPageBackgr {
             margin-right: 10px;
+            margin-bottom: 20px;
+            max-width: 300px;
+            width: 100%;
+            height: 300px;
+          }
+        }
+      }
+    }
+    .footerWrapper {
+      .footerBlock {
+        .socialMediaList {
+          .twitter,
+          .instagram,
+          .facebook {
+            background-size: contain;
+            width: 20px;
+            height: 21px;
+            margin-right: 0;
+            margin-left: 15px;
           }
         }
       }
